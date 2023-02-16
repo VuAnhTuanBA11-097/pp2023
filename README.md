@@ -9,6 +9,8 @@ Students are expected to:
 Student Info
 =========================
 
-* Student Name: MY BEAUTY (is) FULL 
-* Student ID: ID123
+* Student Name: Vu Anh Tuan 
+* Student ID: BA11-097
+* G1
+
 
